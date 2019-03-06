@@ -29,17 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 test
  
-ddd
-1
-
-2
  
-for branch test
-<<<<<<< HEAD
- test
-=======
-1111
-2222
-333
-444
->>>>>>> test
+ 
